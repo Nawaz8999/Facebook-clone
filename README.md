@@ -1,2 +1,2 @@
 # Facebook-clone
-This is my first Facebook login &amp; signup web-page Project Utilized (HTML, Tailwind-CSS)
+Facebook login &amp; signup landing-page Project Utilized with the help of (HTML, Tailwind-CSS)
